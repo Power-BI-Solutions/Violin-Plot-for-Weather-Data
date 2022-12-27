@@ -2,7 +2,7 @@
 
 ### Dashboard
 <p align="center">
-<img width="650em" src="" align = "center"/>
+<img width="650em" src="https://github.com/Power-BI-Solutions/Violin-Plot-for-Weather-Data/blob/main/Custom%20Visual%20-%20Violin%20Plot.gif" align = "center"/>
 </p>
 <br><br/>
 
@@ -39,7 +39,7 @@ DAX for creating custom calendar table for 2020:
 ### Model
 
 <p align="center">
-<img width="650em" src="" align = "center"/>
+<img width="650em" src="https://github.com/Power-BI-Solutions/Violin-Plot-for-Weather-Data/blob/main/violin_plot_data.png" align = "center"/>
 </p>
 <br><br/>
 
